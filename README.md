@@ -11,7 +11,7 @@ In Claude Code:
 /plugin install solofounders@solofounders
 ```
 
-In Claude (desktop or web), add it from the plugin directory once listed, or upload the `.plugin` file from the releases.
+In Claude (desktop or web), add it from the plugin directory once it is listed.
 
 ## Skills
 
