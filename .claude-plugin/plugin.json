@@ -1,0 +1,19 @@
+{
+  "name": "solofounders",
+  "version": "0.1.0",
+  "description": "Operating playbook for solo founders, built from the Solo Founders Podcast and the State of Solo Founding report (solofounders.com): the co-founder decision, idea filters, fundraising alone, first hires, ownership data, and a weekly check-in.",
+  "author": {
+    "name": "Solo Founders"
+  },
+  "homepage": "https://solofounders.com",
+  "license": "MIT",
+  "keywords": [
+    "solo founder",
+    "startups",
+    "fundraising",
+    "co-founder",
+    "hiring",
+    "founders"
+  ],
+  "icon": "./.claude-plugin/icon.png"
+}

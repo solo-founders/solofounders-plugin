@@ -1,0 +1,15 @@
+{
+  "name": "solofounders",
+  "owner": {
+    "name": "Solo Founders",
+    "url": "https://solofounders.com"
+  },
+  "plugins": [
+    {
+      "name": "solofounders",
+      "source": "./",
+      "description": "Operating playbook for solo founders, built from the Solo Founders Podcast and the State of Solo Founding report (solofounders.com)."
+    }
+  ],
+  "description": "Solo Founders plugins for Claude. solofounders.com"
+}
